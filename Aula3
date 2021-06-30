@@ -1,0 +1,79 @@
+
+exercicio 1:
+
+void main() {
+  var nome = "Igor";
+  var Sobrenome = "Souza";
+  var idade = 35;
+  var endereco = "Rua ABc, 26";
+
+  //Saída
+  print(nome);
+  print(Sobrenome);
+  print(idade);
+  print(endereco);
+
+}
+
+exercicio 2:
+
+void main() {
+  
+  var valorEntrada = 30;
+  var Pessoas = 4;
+  
+  print(valorEntrada * Pessoas);
+  
+}
+
+
+
+exercicio 3:
+
+void main() {
+  
+  var baseMaior = 4;
+  var baseMenor = 4;
+  var altura = 4;
+  var area = ((baseMaior + baseMenor) * altura) /2;
+  
+  print(area);
+  
+}
+
+exercicio 4:
+
+void main() {
+  
+  var lado1 = 5;
+  var lado2 = 5;
+  var area = (lado1 * lado2);
+  
+  print(area);
+  
+}
+
+exercicio 5:
+
+void main() {
+
+  var nome = "Igor";
+  var nome2 = "Mateus";
+  
+  
+  if(nome == nome2){
+    print("É a mesma pessoa");
+    
+  }else{
+    print("Os nomes não conferem");
+  }
+   
+  
+}
+
+
+
+
+
+
+
